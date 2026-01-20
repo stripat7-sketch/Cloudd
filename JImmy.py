@@ -1,4 +1,4 @@
-print("Hi")
+print("Hi"
 import heapq
 import sys
 
